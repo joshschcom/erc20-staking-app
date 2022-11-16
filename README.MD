@@ -9,3 +9,5 @@ npx hardhat run --network localhost scripts/deploy.js
 npx create-react-app client
 
 npm i bootstrap ethers styled-components
+
+npm start run
